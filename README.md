@@ -1,4 +1,4 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.31
 
 <details><summary>Table of Contents</summary><ol>
 <li><a href=#quantization>Quantization</a></li>
@@ -31,6 +31,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**SignRR: Retrieve and Refine Real Motion for Sign Language Production**|Fidel Omar Tito Cruz et.al.|[2608.28568](http://arxiv.org/abs/2608.28568)|null|
+|**2026-08-28**|**Blog: Survey of Optimizers**|Ruoran Xu et.al.|[2608.28557](http://arxiv.org/abs/2608.28557)|null|
+|**2026-08-28**|**Wakefield-Dressed Relativistic Vortex Electrons in Plasma Accelerators**|Zhigang Bu et.al.|[2608.28301](http://arxiv.org/abs/2608.28301)|null|
+|**2026-08-28**|**Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale**|Andrea Ceni et.al.|[2608.28295](http://arxiv.org/abs/2608.28295)|null|
+|**2026-08-28**|**H-Scale: Hessian-Guided Scale Refinement for NVFP4 Sub-Byte LLM Inference**|Hao Yu et.al.|[2608.28113](http://arxiv.org/abs/2608.28113)|null|
+|**2026-08-28**|**A Method for Layer Bit-Width Allocation in LLM Quantization via Performance Maximization Under a Quality-Degradation Constraint**|Artem Safronov et.al.|[2608.28003](http://arxiv.org/abs/2608.28003)|null|
+|**2026-08-28**|**Microscopic Realization of Topologically Quantized Alignment in Fast-Rotating Nuclei**|Ganlong Ding et.al.|[2608.27941](http://arxiv.org/abs/2608.27941)|null|
+|**2026-08-28**|**From Documents to Reasoning: A Validated Synthetic Data Pipeline and Semantic-Aware Fine-Tuning for Financial Numerical Reasoning**|Lokendra Birla et.al.|[2608.27919](http://arxiv.org/abs/2608.27919)|null|
+|**2026-08-28**|**Higher-Order Topological Phase in the Two-Dimensional Type-IV Magnet MgCr$_2$O$_4$**|Xiaorong Zou et.al.|[2608.27918](http://arxiv.org/abs/2608.27918)|null|
+|**2026-08-28**|**HyQuant: Hybrid-Precision Quantization for LLM Attention**|Jiatong Ding et.al.|[2608.27875](http://arxiv.org/abs/2608.27875)|null|
 |**2026-06-15**|**Self-Adjointness of the Standard Model of Non-Relativistic QED**|Valentin Kußmaul et.al.|[2606.16947](http://arxiv.org/abs/2606.16947)|null|
 |**2026-06-15**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li et.al.|[2606.16931](http://arxiv.org/abs/2606.16931)|null|
 |**2026-06-15**|**Flux Quantization on 10D Type IIA Superspace via Cyclification from 11D**|Grigorios Giotopoulos et.al.|[2606.16857](http://arxiv.org/abs/2606.16857)|null|
@@ -228,6 +238,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**The Erdős-Hajnal Property for the six-vertex Graph with Edge Set $\{ab,bc,cd,de,af,bf,df\}$**|Viet-Hoang Tran et.al.|[2608.28551](http://arxiv.org/abs/2608.28551)|null|
+|**2026-08-28**|**Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency**|Jianjian Yin et.al.|[2608.28205](http://arxiv.org/abs/2608.28205)|null|
+|**2026-08-28**|**Biologically Inspired Mechanisms for Facilitating Grokking in Multilayer Perceptrons**|Florin Leon et.al.|[2608.28184](http://arxiv.org/abs/2608.28184)|null|
+|**2026-08-28**|**Accelerated S-NFC for Million-Chaff RCS Computation Using Low-Rank Compression of Concatenated Block Rows**|Dong-Yeop Na et.al.|[2608.27936](http://arxiv.org/abs/2608.27936)|null|
+|**2026-08-27**|**A Unified Framework for Fair and Personalized Decentralized Learning under Communication Constraints**|Krishnendu S. Tharakan et.al.|[2608.26493](http://arxiv.org/abs/2608.26493)|null|
+|**2026-08-26**|**The Time-Dependent Traveling Salesman Problem with Loose Time Windows**|Francisco J. Soulignac et.al.|[2608.26360](http://arxiv.org/abs/2608.26360)|null|
+|**2026-08-26**|**PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval**|Matteo Attimonelli et.al.|[2608.25780](http://arxiv.org/abs/2608.25780)|null|
+|**2026-08-24**|**Reservoir of Importance: Learning Semi-Structured Sparsity with Differentiable Subset Sampling**|Ha Dinh et.al.|[2608.23048](http://arxiv.org/abs/2608.23048)|null|
+|**2026-08-26**|**Single-Model Adaptive Wireless Image Transmission via Feature Sparsity Regularization**|Xianghao Cui et.al.|[2608.21743](http://arxiv.org/abs/2608.21743)|null|
+|**2026-08-21**|**Graph Spectral Sparsification is in Catalytic Logspace**|Cassandra Marcussen et.al.|[2608.21594](http://arxiv.org/abs/2608.21594)|null|
 |**2026-06-15**|**Spectral Sparsification of Laplacian-Constrained Gaussian and Hüsler-Reiss Graphical Models**|Ignacio Echave-Sustaeta Rodríguez et.al.|[2606.16681](http://arxiv.org/abs/2606.16681)|null|
 |**2026-06-12**|**MUFFLe: Efficient Model Update Compression via Generalized Deduplication for Federated Learning**|Xiaobo Zhao et.al.|[2606.14354](http://arxiv.org/abs/2606.14354)|null|
 |**2026-06-12**|**Squeeze-Release: Iterative Pruning with Exact Structural Minimization**|Roman Denkin et.al.|[2606.14346](http://arxiv.org/abs/2606.14346)|null|
@@ -388,6 +408,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**D-TAIA: Domain-Aware LLM Adaptation for Multi-Task Predictive Process Monitoring**|Sjoerd van Straten et.al.|[2608.28236](http://arxiv.org/abs/2608.28236)|null|
+|**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
+|**2026-08-28**|**Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models**|Xiaoyang Guo et.al.|[2608.28138](http://arxiv.org/abs/2608.28138)|null|
+|**2026-08-28**|**CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning**|Runze Liu et.al.|[2608.27867](http://arxiv.org/abs/2608.27867)|null|
+|**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
+|**2026-08-27**|**Parameter-Efficient pretrained-CT-to-MRI Transfer for Rectal Cancer Segmentation: Performance-Calibration Trade-offs**|Aneesh Rangnekar et.al.|[2608.27178](http://arxiv.org/abs/2608.27178)|null|
+|**2026-08-27**|**Unifying Detection and Adaptation in Task-Free Continual Learning**|Dezheng Han et.al.|[2608.27070](http://arxiv.org/abs/2608.27070)|null|
+|**2026-08-27**|**Representation Measurements Under Function-Preserving Reparameterizations**|Abdullah Karasan et.al.|[2608.27020](http://arxiv.org/abs/2608.27020)|null|
+|**2026-08-27**|**Geo-LoRA: Geometry-Aware Subspace Evolution for Low-Rank Adaptation in Continual Learning**|Yibo Feng et.al.|[2608.26960](http://arxiv.org/abs/2608.26960)|null|
+|**2026-08-27**|**Scaling Model-Generated Distillation Data Can Make Latent Teacher Traits More Recoverable**|Zhichen Dong et.al.|[2608.26958](http://arxiv.org/abs/2608.26958)|null|
 |**2026-06-15**|**Skill-to-LoRA: From Using Skills to Learning Behaviors for Token-Efficient LLM Agents**|Tianyi Zhang et.al.|[2606.16769](http://arxiv.org/abs/2606.16769)|null|
 |**2026-06-15**|**RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization**|Yong Wang et.al.|[2606.16575](http://arxiv.org/abs/2606.16575)|null|
 |**2026-06-15**|**SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation**|Junghun Oh et.al.|[2606.16454](http://arxiv.org/abs/2606.16454)|null|
@@ -580,6 +610,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
+|**2026-08-28**|**Well-posedness and numerical reconstruction of a source term for linear parabolic problems with an integral constraint**|Jason R. Morris et.al.|[2608.28171](http://arxiv.org/abs/2608.28171)|null|
+|**2026-08-28**|**The Approximation Rank of Softmax Attention: Sharp Geometric Laws and Robust Interaction Dimension**|Yuhe Sui et.al.|[2608.28150](http://arxiv.org/abs/2608.28150)|null|
+|**2026-08-28**|**Accelerated S-NFC for Million-Chaff RCS Computation Using Low-Rank Compression of Concatenated Block Rows**|Dong-Yeop Na et.al.|[2608.27936](http://arxiv.org/abs/2608.27936)|null|
+|**2026-08-28**|**From Documents to Reasoning: A Validated Synthetic Data Pipeline and Semantic-Aware Fine-Tuning for Financial Numerical Reasoning**|Lokendra Birla et.al.|[2608.27919](http://arxiv.org/abs/2608.27919)|null|
+|**2026-08-28**|**CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning**|Runze Liu et.al.|[2608.27867](http://arxiv.org/abs/2608.27867)|null|
+|**2026-08-27**|**High-order robust basis-update & Galerkin integrators for dynamical low-rank approximation**|Cory D. Hauck et.al.|[2608.27749](http://arxiv.org/abs/2608.27749)|null|
+|**2026-08-27**|**Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit**|Sai Adith Senthil Kumar et.al.|[2608.27254](http://arxiv.org/abs/2608.27254)|null|
+|**2026-08-27**|**Parameter-Efficient pretrained-CT-to-MRI Transfer for Rectal Cancer Segmentation: Performance-Calibration Trade-offs**|Aneesh Rangnekar et.al.|[2608.27178](http://arxiv.org/abs/2608.27178)|null|
+|**2026-08-27**|**ElemCo.jl: A Julia package for electron-correlation methods**|Daniel Kats et.al.|[2608.27177](http://arxiv.org/abs/2608.27177)|null|
 |**2026-06-15**|**The Algebra of Units: From Buckingham's Pi-grec Theorem to Latent-Variable Learning**|Mauro Valorani et.al.|[2606.16737](http://arxiv.org/abs/2606.16737)|null|
 |**2026-06-15**|**SPRI: SVD-Partitioned Residual Initialization for Data-Constrained MoE Upcycling**|Weiqiao Shan et.al.|[2606.16456](http://arxiv.org/abs/2606.16456)|null|
 |**2026-06-15**|**SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation**|Junghun Oh et.al.|[2606.16454](http://arxiv.org/abs/2606.16454)|null|
@@ -783,6 +823,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**A Controlled Audit of Architectural Complexity in Uncertainty-Aware Multi-Organ Ultrasound Classification**|Yang Song et.al.|[2608.28063](http://arxiv.org/abs/2608.28063)|null|
+|**2026-08-26**|**Less Contouring, More Accuracy: Lesion-Guided ROI Deep Learning for Ovarian Ultrasound Classification**|Mehran Ahmad et.al.|[2608.25965](http://arxiv.org/abs/2608.25965)|null|
+|**2026-08-11**|**VIDS-Seg: Towards Reliable Uncertainty Quantification in Pediatric Cardiac Ultrasound Segmentation**|Paul Fischer et.al.|[2608.10903](http://arxiv.org/abs/2608.10903)|null|
+|**2026-08-08**|**BAP-MOS: Bandit-Based Adaptive Prompting for Boundary-Sensitive Multi-Organ Segmentation**|Satvik Praveen et.al.|[2608.08191](http://arxiv.org/abs/2608.08191)|null|
+|**2026-08-02**|**UCBound-Net: Uncertainty-Guided Boundary-Aware Continual Learning for Domain-Incremental Ultrasound Segmentation**|Mohammad Amanour Rahman et.al.|[2608.01518](http://arxiv.org/abs/2608.01518)|null|
+|**2026-07-31**|**UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation**|Bo Xu et.al.|[2607.29200](http://arxiv.org/abs/2607.29200)|null|
+|**2026-07-27**|**Efficient Ultrasound Image Segmentation with Token-Conditioned Neural Cellular Automata**|Fangyijie Wang et.al.|[2607.24529](http://arxiv.org/abs/2607.24529)|null|
+|**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
+|**2026-07-29**|**Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification**|Sabahattin Mert Daloglu et.al.|[2607.12054](http://arxiv.org/abs/2607.12054)|null|
+|**2026-07-02**|**MedSaab-US: A Backpropagation-Free Multi-Scale Wavelet-Saab Framework for Thyroid Nodule Segmentation in Ultrasound Images**|Mohammad Amanour Rahman et.al.|[2607.02209](http://arxiv.org/abs/2607.02209)|null|
 |**2026-06-13**|**Enabling Real-Time Point-of-Care Ultrasound Segmentation: A GPU-Free Deployment in Resource-Limited Settings**|Weihao Gao et.al.|[2606.15176](http://arxiv.org/abs/2606.15176)|null|
 |**2026-06-02**|**BBR-Net: Boundary-Balanced Replay for Continual Medical Image Segmentation**|Zahid Ullah et.al.|[2606.14731](http://arxiv.org/abs/2606.14731)|null|
 |**2026-06-09**|**FSS-Net: Frequency-Spatial Synergy Network with Wavelet Attention for Carotid Artery Ultrasound Segmentation**|Jiawei Liu et.al.|[2606.10378](http://arxiv.org/abs/2606.10378)|null|
@@ -815,6 +865,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**FU-Mamba: A Frequency-Enhanced Dynamic Scanning Framework for Oralscan Image Segmentation**|Xinxin Zhao et.al.|[2608.26607](http://arxiv.org/abs/2608.26607)|null|
+|**2026-08-20**|**Volumetric Radiology AI in the Era of Multimodal Large Language Models**|Zanting Ye et.al.|[2608.20549](http://arxiv.org/abs/2608.20549)|null|
+|**2026-08-18**|**Real-time estimation of the transmission matrix of an atmospheric channel**|Cade Peters et.al.|[2608.17696](http://arxiv.org/abs/2608.17696)|null|
+|**2026-08-18**|**TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection**|Yearang Lee et.al.|[2608.17422](http://arxiv.org/abs/2608.17422)|null|
+|**2026-08-14**|**MedMix: Specialization-Consistent Federated Sparse MoEs under Modality Heterogeneity**|Adiba Orzikulova et.al.|[2608.13911](http://arxiv.org/abs/2608.13911)|null|
+|**2026-08-13**|**TRUE-Colon: Exposing a Consistent Transfer Asymmetry in Real-Time Polyp Detection**|Sebastian Doerrich et.al.|[2608.13711](http://arxiv.org/abs/2608.13711)|null|
+|**2026-08-11**|**Uncertainty-Aware and Explainable Ensemble Deep Learning Framework for Multi-Class Skin Lesion Classification**|Rofiqul Islam et.al.|[2608.11280](http://arxiv.org/abs/2608.11280)|null|
+|**2026-08-10**|**CoInS-Net: A Continuous Position-Aware Network for Joint Medical Image Interpolation and Segmentation**|Yujia Sun et.al.|[2608.09391](http://arxiv.org/abs/2608.09391)|null|
+|**2026-08-11**|**Cislunar Pursuit-Evasion Game on Periodic and Quasi-Periodic Orbits**|Quentin Rommel et.al.|[2608.08151](http://arxiv.org/abs/2608.08151)|null|
+|**2026-08-05**|**Zero-Trust Federated Learning for Connected Aftermarket Devices**|Shunmukha Sagar Puppala et.al.|[2608.07591](http://arxiv.org/abs/2608.07591)|null|
 |**2026-06-15**|**Understanding Scam Trends and Rail Paths from Reddit Self-Disclosure Narratives**|Yangjun Zhang et.al.|[2606.16874](http://arxiv.org/abs/2606.16874)|null|
 |**2026-06-08**|**Determining universal spectra from probability distributions**|Charles Kacir et.al.|[2606.10128](http://arxiv.org/abs/2606.10128)|null|
 |**2026-05-27**|**Intra-YOLO: A Small Object Detection Model for Caries and Molar-Incisor Hypomineralization in Intraoral Photography Based on Transfer Learning with Reinforcement Learning**|Po-Lun Chwang et.al.|[2605.28157](http://arxiv.org/abs/2605.28157)|null|
@@ -878,6 +938,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**GeBDA: Building Damage Assessment as Text-Based Sequence Prediction**|Olivier Dietrich et.al.|[2608.28567](http://arxiv.org/abs/2608.28567)|null|
+|**2026-08-28**|**Post-Training VLMs for Video Mistake Detection**|Federico Spurio et.al.|[2608.28406](http://arxiv.org/abs/2608.28406)|null|
+|**2026-08-28**|**Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art**|Haowei Zhang et.al.|[2608.28339](http://arxiv.org/abs/2608.28339)|null|
+|**2026-08-28**|**STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation**|Yang Chen et.al.|[2608.28279](http://arxiv.org/abs/2608.28279)|null|
+|**2026-08-28**|**Synth-JDoc: Synthesizing a Japanese Document Image Dataset for OCR with Diverse Layouts and Embedded Images**|Keito Sasagawa et.al.|[2608.28248](http://arxiv.org/abs/2608.28248)|null|
+|**2026-08-28**|**Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring**|Marin Maletic et.al.|[2608.28246](http://arxiv.org/abs/2608.28246)|null|
+|**2026-08-28**|**Focus Where It Counts: A Salience-Driven Vision-Language Model for Low Vision Assistance**|Jiazhao Liang et.al.|[2608.28218](http://arxiv.org/abs/2608.28218)|null|
+|**2026-08-28**|**WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes**|Kishor Datta Gupta et.al.|[2608.28216](http://arxiv.org/abs/2608.28216)|null|
+|**2026-08-28**|**Dual-Stream Semantic Guidance with Prototype Anchor Calibration for Source-Fully-Free Adaptation of Vision-Language Models**|Weiwei Xiang et.al.|[2608.28145](http://arxiv.org/abs/2608.28145)|null|
+|**2026-08-28**|**Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models**|Xiaoyang Guo et.al.|[2608.28138](http://arxiv.org/abs/2608.28138)|null|
 |**2026-06-15**|**FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models**|Jiaju Han et.al.|[2606.17020](http://arxiv.org/abs/2606.17020)|null|
 |**2026-06-15**|**Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models**|Dongbin Na et.al.|[2606.16902](http://arxiv.org/abs/2606.16902)|null|
 |**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898](http://arxiv.org/abs/2606.16898)|null|
@@ -1065,6 +1135,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**MVC-Bench: Benchmarking Calibration of Medical Vision-Language Models**|Ashshak Sharifdeen et.al.|[2608.27004](http://arxiv.org/abs/2608.27004)|null|
+|**2026-08-26**|**LUTSeg: A Longitudinal Multi-Expert Dataset for Ulcer Tissue Segmentation**|Karen Sanchez et.al.|[2608.25866](http://arxiv.org/abs/2608.25866)|null|
+|**2026-08-26**|**What Do Medical Vision-Language Models Learn in Radiology? Transfer, Alignment, and Source-Proxy Leakage Under Distribution Shift**|Ayoub Louaye Bouaziz et.al.|[2608.25251](http://arxiv.org/abs/2608.25251)|null|
+|**2026-08-25**|**RefineRank: Joint Box Refinement and Ranking for Surgical Spatio-Temporal Grounding**|Linzhe Jiang et.al.|[2608.23928](http://arxiv.org/abs/2608.23928)|null|
+|**2026-08-19**|**EVADE: Evidence-Verified Agentic Diagnosis with Escape**|Mohaimenul Azam Khan Raiaan et.al.|[2608.18833](http://arxiv.org/abs/2608.18833)|null|
+|**2026-08-18**|**PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation**|Jianyu Sun et.al.|[2608.17926](http://arxiv.org/abs/2608.17926)|null|
+|**2026-08-18**|**Counterfactual Anatomy-guided Spatial-Temporal Decoding for Annotation-Free Hallucination Mitigation in Medical VLMs**|Yifan Lu et.al.|[2608.17427](http://arxiv.org/abs/2608.17427)|null|
+|**2026-08-11**|**MedUP: Awakening Unified Understanding and Perception in Medical Vision-Language Models**|Yuan Wang et.al.|[2608.10635](http://arxiv.org/abs/2608.10635)|null|
+|**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Haoyu Yang et.al.|[2608.09818](http://arxiv.org/abs/2608.09818)|null|
+|**2026-08-01**|**Auditing Medical Vision-Language Models on Chest Radiographs: Estimating Reference Agreement Across Institutions**|Pengyang Yu et.al.|[2608.07550](http://arxiv.org/abs/2608.07550)|null|
 |**2026-06-15**|**Uncertainty Is Not a Safety Net for Clinical VQA, but Can It Anticipate Model Failure?**|Arnisa Fazla et.al.|[2606.16583](http://arxiv.org/abs/2606.16583)|null|
 |**2026-06-14**|**Calibrated Triage, Not Autonomy: Confidence Estimation for Medical Vision-Language Models**|Reza Khanmohammadi et.al.|[2606.15910](http://arxiv.org/abs/2606.15910)|null|
 |**2026-06-11**|**OpenMedQ: Broad Open Pretraining for Medical Vision-Language Models**|Ibrahim Gulluk et.al.|[2606.12953](http://arxiv.org/abs/2606.12953)|null|
@@ -1146,6 +1226,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes**|Kishor Datta Gupta et.al.|[2608.28216](http://arxiv.org/abs/2608.28216)|null|
+|**2026-08-28**|**Memory-efficient GPU pipelines for real-time non-line-of-sight reconstruction**|Alfonso López-Ruiz et.al.|[2608.28183](http://arxiv.org/abs/2608.28183)|null|
+|**2026-08-28**|**PhenoIntel: A Lifecycle-Aligned Multi-Agent Web Application for Verified, Accessible Plant Phenotype Analysis**|Narendren S et.al.|[2608.27999](http://arxiv.org/abs/2608.27999)|null|
+|**2026-08-28**|**Relational Knowledge Distillation Brings DNN Representations Close Enough to Humans to Be Aligned Without Supervision**|Yuria Shimizu et.al.|[2608.27877](http://arxiv.org/abs/2608.27877)|null|
+|**2026-08-28**|**Quiescent and Interacting Compact Remnant Binary Populations in the Space Telescope Era**|Erin Eastep et.al.|[2608.27792](http://arxiv.org/abs/2608.27792)|null|
+|**2026-08-27**|**CHARA Array Observations of the Evolved Components in Symbiotic Star Systems**|Thomas Martin Gaudin et.al.|[2608.27546](http://arxiv.org/abs/2608.27546)|null|
+|**2026-08-27**|**Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information**|Chanho Park et.al.|[2608.27417](http://arxiv.org/abs/2608.27417)|null|
+|**2026-08-27**|**Diamond quantum-sensing platform with integrated boron-doped diamond microwave antenna and thermometer**|Masahiro Ohkuma et.al.|[2608.27160](http://arxiv.org/abs/2608.27160)|null|
+|**2026-08-27**|**Beyond Classification: Task-Dependent Learnability under Privacy-Motivated Image Transformations**|Leon Ranke et.al.|[2608.27066](http://arxiv.org/abs/2608.27066)|null|
+|**2026-08-27**|**MVC-Bench: Benchmarking Calibration of Medical Vision-Language Models**|Ashshak Sharifdeen et.al.|[2608.27004](http://arxiv.org/abs/2608.27004)|null|
 |**2026-06-15**|**A Multi-Center Benchmark for Abdominal Disease Diagnosis and Report Generation from Non-Contrast CT**|Mariam Elbakry et.al.|[2606.16991](http://arxiv.org/abs/2606.16991)|null|
 |**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638](http://arxiv.org/abs/2606.16638)|null|
 |**2026-06-15**|**Optimizing Multiple Feature Types for Image Inpainting in the Linear and Nonlinear Setting**|Vassillen Chizhov et.al.|[2606.16581](http://arxiv.org/abs/2606.16581)|null|
@@ -1328,6 +1418,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
+|**2026-08-28**|**WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents**|Zongkai Liu et.al.|[2608.28062](http://arxiv.org/abs/2608.28062)|null|
+|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|null|
+|**2026-08-28**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Yibo Qiu et.al.|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
+|**2026-08-27**|**Mapping Written Words to Spoken Words in a Different Language Using Only Visual Grounding**|Gabriel Pirlogeanu et.al.|[2608.26925](http://arxiv.org/abs/2608.26925)|null|
+|**2026-08-26**|**VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology**|Luca L. Weishaupt et.al.|[2608.26382](http://arxiv.org/abs/2608.26382)|null|
+|**2026-08-26**|**A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training**|Kaichen Li et.al.|[2608.26095](http://arxiv.org/abs/2608.26095)|null|
+|**2026-08-26**|**V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning**|Shulin Tian et.al.|[2608.25580](http://arxiv.org/abs/2608.25580)|null|
+|**2026-08-26**|**PointRL: Learning Point-Level Vision-Language Grounding from Verifiable Annotation Evidence**|Jingyang Su et.al.|[2608.25299](http://arxiv.org/abs/2608.25299)|null|
+|**2026-08-25**|**Beyond Accuracy: A Dual-Judge Evaluation Protocol for Vision-Language Models in Legally Grounded Tasks**|Su Myat Noe et.al.|[2608.24258](http://arxiv.org/abs/2608.24258)|null|
 |**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898](http://arxiv.org/abs/2606.16898)|null|
 |**2026-06-15**|**Connecting Speech to Words through Images**|Gabriel Pirlogeanu et.al.|[2606.16807](http://arxiv.org/abs/2606.16807)|null|
 |**2026-06-15**|**LLM-Based Visual Explanation Evaluation Framework for Assessing the Explainability of Facial Skin Disease Classification Models**|Gyuyeon Na et.al.|[2606.16794](http://arxiv.org/abs/2606.16794)|null|
@@ -1478,6 +1578,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
+|**2026-08-27**|**Agents for Everyone: A Workshop Framework for Building Agentic AI Capabilities in a Distributed Curation Community**|Seth Carbon et.al.|[2608.27675](http://arxiv.org/abs/2608.27675)|null|
+|**2026-08-27**|**Conformal Prediction Through the Lens of Hypothesis Testing: Universality, Impossibility, and Optimality**|Ryan J. Tibshirani et.al.|[2608.27310](http://arxiv.org/abs/2608.27310)|null|
+|**2026-08-27**|**When Relationships Break: Interpreting Network Traffic Anomalies via Dependency Violations**|Federica Uccello et.al.|[2608.26831](http://arxiv.org/abs/2608.26831)|null|
+|**2026-08-26**|**Realistic Counterfactual Explanations via Denial Constraints**|Avia Asael et.al.|[2608.26335](http://arxiv.org/abs/2608.26335)|null|
+|**2026-08-26**|**From Fleet to Lab: Revisiting the Security and Complexity of Industrial Rowhammer Mitigation**|Hritvik Taneja et.al.|[2608.26072](http://arxiv.org/abs/2608.26072)|null|
+|**2026-08-26**|**An Approximately 70-Year Core-Related Modulation of Earth Rotation and Its Implications for the Leap Second**|Zewen Zhang et.al.|[2608.25964](http://arxiv.org/abs/2608.25964)|null|
+|**2026-08-26**|**Towards A Unified Information Bottleneck Framework for Time Series Explanations**|Xu Zheng et.al.|[2608.25897](http://arxiv.org/abs/2608.25897)|null|
+|**2026-08-26**|**MIMONet: Multi-scale Input and Multi-scale Output Network for Salient Object Detection**|Zhaojian Yao et.al.|[2608.25733](http://arxiv.org/abs/2608.25733)|null|
+|**2026-08-26**|**DeCO: Discriminative Evidence Composition for Fine-Grained Dataset Distillation**|Chuixuan Fan et.al.|[2608.25480](http://arxiv.org/abs/2608.25480)|null|
 |**2026-06-15**|**AI+CAD Data Representation Architecture: From AI+CAD Solid Modeling to AI+CAD Industrial-Grade Parametric Feature Modeling**|Rubin Fan et.al.|[2606.16797](http://arxiv.org/abs/2606.16797)|null|
 |**2026-06-15**|**LLM-Based Visual Explanation Evaluation Framework for Assessing the Explainability of Facial Skin Disease Classification Models**|Gyuyeon Na et.al.|[2606.16794](http://arxiv.org/abs/2606.16794)|null|
 |**2026-06-15**|**We Need Explanation Cards to Connect Explanation Algorithms to the Real World**|Eric Günther et.al.|[2606.16786](http://arxiv.org/abs/2606.16786)|null|
@@ -1641,6 +1751,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|null|
+|**2026-08-25**|**MTDiag: A Multi-Turn Diagnostic Dataset Towards Clinically Meaningful LLM Evaluation**|Pia Chouayfati et.al.|[2608.25085](http://arxiv.org/abs/2608.25085)|null|
+|**2026-08-24**|**Aligning Biomedical Texts and Knowledge Graphs: A Systematic Comparison of Lightweight Alignment Strategies**|Artem Bisliouk et.al.|[2608.23214](http://arxiv.org/abs/2608.23214)|null|
+|**2026-08-22**|**Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning**|Zhaoda Du et.al.|[2608.22128](http://arxiv.org/abs/2608.22128)|null|
+|**2026-08-20**|**OenoBench: A Wine-Domain Benchmark for Knowledge-Grounded Evaluation of Large Language Models**|Nikita Khudov et.al.|[2608.20106](http://arxiv.org/abs/2608.20106)|null|
+|**2026-08-20**|**Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment**|Yunseo Lee et.al.|[2608.19825](http://arxiv.org/abs/2608.19825)|null|
+|**2026-08-17**|**Foresight-England: Development of a National-Scale Generative AI Model of Electronic Health Records for Medical Event Prediction across the COVID-19 Pandemic**|Simon Ellershaw et.al.|[2608.16273](http://arxiv.org/abs/2608.16273)|null|
+|**2026-08-15**|**Towards Standardized Evaluation in Automated Domain Modeling: Introducing a Benchmark**|Vasiliy Seibert et.al.|[2608.15255](http://arxiv.org/abs/2608.15255)|null|
+|**2026-08-13**|**TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials**|Fatema Tuj Johora Faria et.al.|[2608.13708](http://arxiv.org/abs/2608.13708)|null|
+|**2026-08-13**|**Moose: Latent concept learning with reasoning-shortcut awareness in $\mathcal{EL}^{++}$**|Olga Mashkova et.al.|[2608.12961](http://arxiv.org/abs/2608.12961)|null|
 |**2026-06-12**|**Recipe-Controlled Decoder Audit for Structural Knowledge-Graph Completion**|Xihang Shan et.al.|[2606.14492](http://arxiv.org/abs/2606.14492)|null|
 |**2026-06-12**|**Personal Care Utility: Health as Everyday Infrastructure**|Mahyar Abbasian et.al.|[2606.14145](http://arxiv.org/abs/2606.14145)|null|
 |**2026-06-09**|**Decoupling Thought from Speech: Knowledge-Grounded Counterfactual Reasoning for Resilient Multi-Agent Argumentation**|Jakub Masłowski et.al.|[2606.10475](http://arxiv.org/abs/2606.10475)|null|
@@ -1721,6 +1841,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG**|Benjamin Constable et.al.|[2608.28572](http://arxiv.org/abs/2608.28572)|null|
+|**2026-08-28**|**CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents**|Jaewon Jung et.al.|[2608.28389](http://arxiv.org/abs/2608.28389)|null|
+|**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|null|
+|**2026-08-28**|**FinExam-10K: When Retrieval Helps Financial Reasoning?**|Yan Lin et.al.|[2608.28155](http://arxiv.org/abs/2608.28155)|null|
+|**2026-08-28**|**What Makes Agent Memory Useful for Reliable Unanswerable Question Handling?**|Chuanyuan Tan et.al.|[2608.27924](http://arxiv.org/abs/2608.27924)|null|
+|**2026-08-28**|**LINE Conversation History Retrieval for Personal Memory RAG: Evaluating Search Representations and Hybrid Retrieval**|Akito Hattori et.al.|[2608.27809](http://arxiv.org/abs/2608.27809)|null|
+|**2026-08-27**|**Knowing Before Answering: Decoding Language Models for Reliable RAG**|Syed Mahbubul Huq et.al.|[2608.27661](http://arxiv.org/abs/2608.27661)|null|
+|**2026-08-27**|**How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space**|Corey D. C. Heath et.al.|[2608.27121](http://arxiv.org/abs/2608.27121)|null|
+|**2026-08-27**|**pro-team at LLMs4OL 2026 Tasks Flagship and Reuse: Retrieval-Augmented Generation and Vocabulary-Constrained Filtering for Ontology Learning**|Shivam Mishra et.al.|[2608.27101](http://arxiv.org/abs/2608.27101)|null|
+|**2026-08-27**|**Research Design Tracking and Assessment for the Social Sciences**|Marco Rovera et.al.|[2608.27049](http://arxiv.org/abs/2608.27049)|null|
 |**2026-06-15**|**Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio**|Anzhe Xie et.al.|[2606.17041](http://arxiv.org/abs/2606.17041)|null|
 |**2026-06-15**|**Understanding the Behaviors of Environment-aware Information Retrieval**|Ruifeng Yuan et.al.|[2606.16817](http://arxiv.org/abs/2606.16817)|null|
 |**2026-06-15**|**SCAR: Semantic Continuity-Aware Retrieval for Efficient Context Expansion in RAG**|Nathanaël Langlois et.al.|[2606.16661](http://arxiv.org/abs/2606.16661)|null|
@@ -1907,6 +2037,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering**|Mohammad Arvan et.al.|[2608.27467](http://arxiv.org/abs/2608.27467)|null|
+|**2026-08-27**|**DocTalkBN: A Novel Dataset of Expert Telemedicine Conversations in Bengali**|Anik Saha et.al.|[2608.27110](http://arxiv.org/abs/2608.27110)|null|
+|**2026-08-23**|**From Triage to Discharge: A Survey of NLP Tasks, Methods, and Open Challenges in the Emergency Department**|Dipankar Srirag et.al.|[2608.23627](http://arxiv.org/abs/2608.23627)|null|
+|**2026-08-17**|**Toward Better Assessment of LLMs' Performance in Clinical Error Detection**|Yifan Zhang et.al.|[2608.16643](http://arxiv.org/abs/2608.16643)|null|
+|**2026-08-11**|**RLMOpt: Adaptive Prompt Optimization via Recursive Language Models**|Subhash Bangalore Satheesha et.al.|[2608.10471](http://arxiv.org/abs/2608.10471)|null|
+|**2026-08-06**|**Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies**|Alexander Apartsin et.al.|[2608.05993](http://arxiv.org/abs/2608.05993)|null|
+|**2026-07-21**|**MIRA-Ev:A Benchmark for Granular Evidence Detection and Relational Reasoning in Clinical Exams**|Iker De la Iglesia et.al.|[2607.19201](http://arxiv.org/abs/2607.19201)|null|
+|**2026-08-01**|**Trust but Verify:Evidence-Linked Multi-Agent Clinical Information Extraction in Pathology**|Yufan Wang et.al.|[2607.06435](http://arxiv.org/abs/2607.06435)|null|
+|**2026-07-01**|**Dynamic Bidirectional Pattern Memory: A Production-Scale Empirical Characterisation of Inference-Time Gating in Clinical NLP**|Ali H. Lazem et.al.|[2607.00870](http://arxiv.org/abs/2607.00870)|null|
+|**2026-06-20**|**Where Does the Signal Live? A Web Data Recipe for Medical Encoder Pretraining**|Bofeng Huang et.al.|[2606.22079](http://arxiv.org/abs/2606.22079)|null|
 |**2026-06-11**|**sebis at CRF Filling 2026: A Two-Stage Local LLM Pipeline for Medical CRF Filling**|Katharina Sommer et.al.|[2606.13082](http://arxiv.org/abs/2606.13082)|null|
 |**2026-06-02**|**The Word and the Way: Strategies for Domain-Specific BERT Pre-Training in German Medical NLP**|Henry He et.al.|[2606.03250](http://arxiv.org/abs/2606.03250)|null|
 |**2026-05-30**|**LinguIUTics at PsyDefDetect: Iterative Imbalance-Aware Fine-tuning of Qwen3-8B for Psychological Defense Mechanism Classification**|Shefayat E Shams Adib et.al.|[2606.00647](http://arxiv.org/abs/2606.00647)|null|
@@ -1956,6 +2096,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**BEACON: Behavior-Anchored Cross-Source Knowledge Graph Construction for Cyber Threat Intelligence**|Changze Li et.al.|[2608.28394](http://arxiv.org/abs/2608.28394)|null|
+|**2026-08-28**|**AGENT-O: A Semantic Agent Card Framework for Interoperable and Governed Healthcare AI Agents**|Pengze Li et.al.|[2608.28345](http://arxiv.org/abs/2608.28345)|null|
+|**2026-08-28**|**Memory-efficient GPU pipelines for real-time non-line-of-sight reconstruction**|Alfonso López-Ruiz et.al.|[2608.28183](http://arxiv.org/abs/2608.28183)|null|
+|**2026-08-28**|**Network Topologies for QKD Networks**|Ori Rottenstreich et.al.|[2608.28036](http://arxiv.org/abs/2608.28036)|null|
+|**2026-08-27**|**When Interference Graphs Evolve: Doubly Robust Estimation of Dynamic Peer Effects**|Xiaojing Du et.al.|[2608.27187](http://arxiv.org/abs/2608.27187)|null|
+|**2026-08-27**|**BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click**|Mesut Toruk et.al.|[2608.26867](http://arxiv.org/abs/2608.26867)|null|
+|**2026-08-27**|**RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR**|Yi-Lin Ye et.al.|[2608.26715](http://arxiv.org/abs/2608.26715)|null|
+|**2026-08-27**|**Energy as a Concealable State in Adversarial UAV Patrolling: Formulation, an Energy-Security Threshold, and the Limits of Self-Play**|Sai Krishna Reddy Mareddy et.al.|[2608.26518](http://arxiv.org/abs/2608.26518)|null|
+|**2026-08-26**|**MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reductions on Mesh NoCs**|Amirreza Khorasanian et.al.|[2608.26220](http://arxiv.org/abs/2608.26220)|null|
+|**2026-08-26**|**Beyond Scaling: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory**|Siyuan Chen et.al.|[2608.25570](http://arxiv.org/abs/2608.25570)|null|
 |**2026-06-15**|**A Scalable All-to-All Reconfigurable Ising Solver Using Pulsed Time-Division Multiplexing**|Henry Love et.al.|[2606.16929](http://arxiv.org/abs/2606.16929)|null|
 |**2026-06-15**|**Multi-Modal Spatio-Temporal Graph Neural Network with Mixture of Experts for Soil Organic Carbon Prediction**|Daniele Mos et.al.|[2606.16580](http://arxiv.org/abs/2606.16580)|null|
 |**2026-06-15**|**What does measuring one qubit reveal about another? $K$-networks as a directed diagnostic for quantum circuits**|Kostas Blekos et.al.|[2606.16549](http://arxiv.org/abs/2606.16549)|null|
@@ -2095,6 +2245,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**TTPO: Test-Time Policy Optimization**|Aozhe Wang et.al.|[2608.27448](http://arxiv.org/abs/2608.27448)|null|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|null|
+|**2026-08-27**|**Graph-Based Pseudo-multimodal Contrastive Learning for 12-Lead ECG Representations**|Mengyu Wang et.al.|[2608.26964](http://arxiv.org/abs/2608.26964)|null|
+|**2026-08-27**|**Integrating Network Psychometrics and LLMs: The Ising-Embeddings-Model applied to Reliability Auditing**|Matthias von Davier et.al.|[2608.26790](http://arxiv.org/abs/2608.26790)|null|
+|**2026-08-26**|**Beyond Participant-Level Cross-Validation: Reliable Inference for Longitudinal Machine Learning**|Shahran Rahman Alve et.al.|[2608.26205](http://arxiv.org/abs/2608.26205)|null|
+|**2026-08-26**|**DEFUSE: Generalizable Backdoor Defense for Self-Supervised Encoders with Generative Priors**|Tuo Chen et.al.|[2608.25851](http://arxiv.org/abs/2608.25851)|null|
+|**2026-08-26**|**Label-Free Foundational Model Selection for Medical Image Classification under Distribution Shift via Pseudo Label Discrepancy**|Juan Iñaki Larrea et.al.|[2608.25810](http://arxiv.org/abs/2608.25810)|null|
+|**2026-08-26**|**CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery**|Yuanpei Liu et.al.|[2608.25692](http://arxiv.org/abs/2608.25692)|null|
+|**2026-08-26**|**PaSta: Noisy Node Classification with Partial Label Learning**|Yujing Liu et.al.|[2608.25365](http://arxiv.org/abs/2608.25365)|null|
+|**2026-08-26**|**Two Dimensions Govern Agnostic Multiclass Transductive Learning**|Pahan Dewasurendra et.al.|[2608.25326](http://arxiv.org/abs/2608.25326)|null|
 |**2026-06-15**|**Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning**|Tung M. Luu et.al.|[2606.16856](http://arxiv.org/abs/2606.16856)|null|
 |**2026-06-15**|**Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier**|Keizo Kato et.al.|[2606.16811](http://arxiv.org/abs/2606.16811)|null|
 |**2026-06-15**|**Vision-Language Models as Zero-Annotation Oracles in Histopathology**|Vishal Jain et.al.|[2606.16658](http://arxiv.org/abs/2606.16658)|null|
@@ -2262,6 +2422,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**INSPIRE: An Internalize-Then-Improve Approach for Example-Driven Mathematical Reasoning**|Shuai Wang et.al.|[2608.27501](http://arxiv.org/abs/2608.27501)|null|
+|**2026-08-27**|**Astar: Learning to Propose Evolution Directions for Self-Evolving Industrial AI Systems**|Jinxin Hu et.al.|[2608.27287](http://arxiv.org/abs/2608.27287)|null|
+|**2026-08-27**|**STAR : Sentence Translation Alignment Rate for Document-to-Document Machine Translation**|Yichen Dong et.al.|[2608.27161](http://arxiv.org/abs/2608.27161)|null|
+|**2026-08-27**|**Disentangling Optimization Scale from Preference Scale in DPO**|Ivan Kruzhilov et.al.|[2608.27032](http://arxiv.org/abs/2608.27032)|null|
+|**2026-08-27**|**JudgeStealer: Extracting LLM Judging Capabilities across Evaluation Protocols**|Chen Chen et.al.|[2608.26982](http://arxiv.org/abs/2608.26982)|null|
+|**2026-08-27**|**RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing**|Zijian Kan et.al.|[2608.26956](http://arxiv.org/abs/2608.26956)|null|
+|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|null|
+|**2026-08-27**|**Equal Ranking Quality, Different Decisions: Training Order-Consistent LLM Scorers**|Markus Frohmann et.al.|[2608.26762](http://arxiv.org/abs/2608.26762)|null|
+|**2026-08-27**|**SPEAR: Distilling Domain-Adaptive Reasoning Skeletons via Sequential Symbolic Alignment in Reinforcement Learning**|Zhuochun Li et.al.|[2608.26550](http://arxiv.org/abs/2608.26550)|null|
+|**2026-08-26**|**Neuro-symbolic PRM: Enhancing Scientific Reasoning via Structured Traces and Symbolic Verification**|Yuxin Zi et.al.|[2608.26329](http://arxiv.org/abs/2608.26329)|null|
 |**2026-06-15**|**The Value Axis: Language Models Encode Whether They're on the Right Track**|Nick Jiang et.al.|[2606.17056](http://arxiv.org/abs/2606.17056)|null|
 |**2026-06-15**|**TuneJury: An Open Metric for Improving Music Generation Preference Alignment**|Yonghyun Kim et.al.|[2606.17006](http://arxiv.org/abs/2606.17006)|null|
 |**2026-06-15**|**Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models**|Ke Miao et.al.|[2606.16808](http://arxiv.org/abs/2606.16808)|null|
@@ -2443,6 +2613,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**A Survey on Rubric-Guided Reinforcement Learning for Language Models**|Zifei Shan et.al.|[2608.27505](http://arxiv.org/abs/2608.27505)|null|
+|**2026-08-27**|**Disentangling Optimization Scale from Preference Scale in DPO**|Ivan Kruzhilov et.al.|[2608.27032](http://arxiv.org/abs/2608.27032)|null|
+|**2026-08-26**|**MemToC: Benchmarking Memory-Tool Conflict Resolution in Large Language Models**|Arseniy Varlamov et.al.|[2608.26295](http://arxiv.org/abs/2608.26295)|null|
+|**2026-08-26**|**Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning**|Srivalli Katkuri et.al.|[2608.25350](http://arxiv.org/abs/2608.25350)|null|
+|**2026-08-26**|**Security-Aware Pinching-Antenna Systems (PASS): Physical-Layer Security Transmission**|Zhaoming Hu et.al.|[2608.25301](http://arxiv.org/abs/2608.25301)|null|
+|**2026-08-25**|**Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal**|Philipp E. Glass et.al.|[2608.24988](http://arxiv.org/abs/2608.24988)|null|
+|**2026-08-25**|**Preference Optimization for Non-Verbal Vocalization Synthesis**|Haoyang Li et.al.|[2608.24163](http://arxiv.org/abs/2608.24163)|null|
+|**2026-08-25**|**Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment**|Zachary Wojtowicz et.al.|[2608.24046](http://arxiv.org/abs/2608.24046)|null|
+|**2026-08-25**|**NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning**|Sibo Tian et.al.|[2608.24026](http://arxiv.org/abs/2608.24026)|null|
+|**2026-08-25**|**The urban right to AI: Pluralistic co-design and governance of public space**|Rashid Mushkani et.al.|[2608.23999](http://arxiv.org/abs/2608.23999)|null|
 |**2026-06-15**|**The Value Axis: Language Models Encode Whether They're on the Right Track**|Nick Jiang et.al.|[2606.17056](http://arxiv.org/abs/2606.17056)|null|
 |**2026-06-15**|**Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models**|Ke Miao et.al.|[2606.16808](http://arxiv.org/abs/2606.16808)|null|
 |**2026-06-13**|**Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: A Mechanistic Interpretability Audit of Ethical Reasoning**|Ali Dasdan et.al.|[2606.15507](http://arxiv.org/abs/2606.15507)|null|
@@ -2618,6 +2798,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Conformal Uncertainty Quantification Guarantees for Neural Operators**|Tom Stent et.al.|[2608.28515](http://arxiv.org/abs/2608.28515)|null|
+|**2026-08-28**|**REPLICANT: Learning Policies for Evading and Hardening Malware Detectors**|Shae McFadden et.al.|[2608.28499](http://arxiv.org/abs/2608.28499)|null|
+|**2026-08-28**|**The Race for Elite Destinations: Education Competition and Low Fertility in Korea**|Dongwoo Kim et.al.|[2608.27980](http://arxiv.org/abs/2608.27980)|null|
+|**2026-08-27**|**Dimension Bridging for 3D RANS with Neural Network Accelerated Gaussian Functional Regression**|Wesley Lao et.al.|[2608.27639](http://arxiv.org/abs/2608.27639)|null|
+|**2026-08-27**|**Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs**|Mingcan Wang et.al.|[2608.27369](http://arxiv.org/abs/2608.27369)|null|
+|**2026-08-27**|**Graph-based causal variance decompositions: When "variance explained" means causation**|Olli Saarela et.al.|[2608.27140](http://arxiv.org/abs/2608.27140)|null|
+|**2026-08-27**|**TRACE-CRC: Trajectory-Adaptive Conformal Risk Control for Multi-Step Channel State Information Prediction**|Kiarash Rezaei et.al.|[2608.27124](http://arxiv.org/abs/2608.27124)|null|
+|**2026-08-27**|**Learning Transverse Momentum Distributions from Raw Scattering Events via Conditional Diffusion**|Jitao Xu et.al.|[2608.27077](http://arxiv.org/abs/2608.27077)|null|
+|**2026-08-27**|**Adversarial Training Without Input Gradients via Low-Rank Householder Expansions**|Tiana C. Johnson et.al.|[2608.26963](http://arxiv.org/abs/2608.26963)|null|
+|**2026-08-27**|**TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression**|Youyuan Liu et.al.|[2608.26912](http://arxiv.org/abs/2608.26912)|null|
 |**2026-06-15**|**Dynestyx: A Probabilistic Programming Library for Dynamical Systems**|Daniel Waxman et.al.|[2606.16985](http://arxiv.org/abs/2606.16985)|null|
 |**2026-06-15**|**Multi-Modal Spatio-Temporal Graph Neural Network with Mixture of Experts for Soil Organic Carbon Prediction**|Daniele Mos et.al.|[2606.16580](http://arxiv.org/abs/2606.16580)|null|
 |**2026-06-15**|**Simulation-Augmented Multi-Step Split Conformal Prediction for Aggregated Forecasts**|Andro Sabashvili et.al.|[2606.16356](http://arxiv.org/abs/2606.16356)|null|
@@ -2805,6 +2995,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**D-TAIA: Domain-Aware LLM Adaptation for Multi-Task Predictive Process Monitoring**|Sjoerd van Straten et.al.|[2608.28236](http://arxiv.org/abs/2608.28236)|null|
+|**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
+|**2026-08-28**|**Dual-Stream Semantic Guidance with Prototype Anchor Calibration for Source-Fully-Free Adaptation of Vision-Language Models**|Weiwei Xiang et.al.|[2608.28145](http://arxiv.org/abs/2608.28145)|null|
+|**2026-08-28**|**Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models**|Xiaoyang Guo et.al.|[2608.28138](http://arxiv.org/abs/2608.28138)|null|
+|**2026-08-28**|**From Documents to Reasoning: A Validated Synthetic Data Pipeline and Semantic-Aware Fine-Tuning for Financial Numerical Reasoning**|Lokendra Birla et.al.|[2608.27919](http://arxiv.org/abs/2608.27919)|null|
+|**2026-08-28**|**Relational Knowledge Distillation Brings DNN Representations Close Enough to Humans to Be Aligned Without Supervision**|Yuria Shimizu et.al.|[2608.27877](http://arxiv.org/abs/2608.27877)|null|
+|**2026-08-28**|**CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning**|Runze Liu et.al.|[2608.27867](http://arxiv.org/abs/2608.27867)|null|
+|**2026-08-28**|**SpikeOPD: Stable On-Policy Distillation for Autoregressive Spiking Language Models**|Enqiao Lu et.al.|[2608.27857](http://arxiv.org/abs/2608.27857)|null|
+|**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
+|**2026-08-27**|**Below the Noise Floor: Bimodal Seed Collapse and Distinct Failure Modes in Small-Model Knowledge Distillation**|Dipto Sumit et.al.|[2608.27729](http://arxiv.org/abs/2608.27729)|null|
 |**2026-06-15**|**Skill-to-LoRA: From Using Skills to Learning Behaviors for Token-Efficient LLM Agents**|Tianyi Zhang et.al.|[2606.16769](http://arxiv.org/abs/2606.16769)|null|
 |**2026-06-15**|**SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation**|Junghun Oh et.al.|[2606.16454](http://arxiv.org/abs/2606.16454)|null|
 |**2026-06-15**|**Instance-Aware Knowledge Distillation for Semi-Supervised Learning of an On-Board Multi-Task Dense Prediction Model for Collision Avoidance System**|Gyutae Hwang et.al.|[2606.16414](http://arxiv.org/abs/2606.16414)|null|
@@ -2992,6 +3192,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Distinct Modes of Pulsar Glitch Activity Revealed by the Waiting-Time--Amplitude Morphology**|Wen-Tong Liu et.al.|[2608.28523](http://arxiv.org/abs/2608.28523)|null|
+|**2026-08-28**|**Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation**|Di Wu et.al.|[2608.28496](http://arxiv.org/abs/2608.28496)|null|
+|**2026-08-28**|**Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents**|Nan Li et.al.|[2608.28458](http://arxiv.org/abs/2608.28458)|null|
+|**2026-08-28**|**How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models**|Victor Besnier et.al.|[2608.28404](http://arxiv.org/abs/2608.28404)|null|
+|**2026-08-28**|**When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning**|Mingyuan Huang et.al.|[2608.28400](http://arxiv.org/abs/2608.28400)|null|
+|**2026-08-28**|**Quantum transport and unified scaling law in graphene with polyadic Cantor electrostatic barriers**|Sudhanshu Shekhar et.al.|[2608.28398](http://arxiv.org/abs/2608.28398)|null|
+|**2026-08-28**|**Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation**|Akshay Kekuda et.al.|[2608.28393](http://arxiv.org/abs/2608.28393)|null|
+|**2026-08-28**|**PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems**|Hanglong Lv et.al.|[2608.28378](http://arxiv.org/abs/2608.28378)|null|
+|**2026-08-28**|**Cross-Spectral Dense Correspondence for Multimodal Spectral Medical Imaging**|Eric L. Wisotzky et.al.|[2608.28341](http://arxiv.org/abs/2608.28341)|null|
+|**2026-08-28**|**Deriving Scaling Laws for OpenEuroLLM Models: Learning Rate, Batch Size and Loss**|Niccolò Ajroldi et.al.|[2608.28308](http://arxiv.org/abs/2608.28308)|null|
 |**2026-06-15**|**HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting**|Alper Yıldırım et.al.|[2606.17028](http://arxiv.org/abs/2606.17028)|null|
 |**2026-06-15**|**FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models**|Jiaju Han et.al.|[2606.17020](http://arxiv.org/abs/2606.17020)|null|
 |**2026-06-15**|**Evolution of Nonlinear Ion Transport in Nanopore Arrays: Ionic Conductance, Current Rectification, and Osmotic Power**|Chih-Yuan Lin et.al.|[2606.17012](http://arxiv.org/abs/2606.17012)|null|
